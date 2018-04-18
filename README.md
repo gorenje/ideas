@@ -13,7 +13,7 @@ DISCLAIMER: The author does not suggest that any of these ideas are good
 nor that they should be ever implemented nor that anyone should come to harm
 reading, implementing or using these ideas.
 
-* Facebook Revival Button
+## Facebook Revival Button
 
 Revive loved ones by simply clicking a button. This sounds rather gruesome,
 and actually it is, but hear me out.
@@ -49,17 +49,7 @@ be able to provide the pieces for individual components of the simulation.
 One only has to look at [Facebook Research](https://github.com/facebookresearch)
 to see that there is a lot of research going on in this direction.
 
-* Package Storage Spiral
-
-* QR Codes for homeless people
-
-* Google Street View Traveller
-
-* Collecting Free CarSharing Minutes
-
-* Cargo Wagons for Trams and Undergrounds
-
-* Reputation Badge
+## Reputation Badge
 
 Similar to what [Gravatar](https://en.gravatar.com/) provides, this would
 provide a reputation service for all users of the internet.
@@ -76,13 +66,13 @@ previous comments.
 The scale would be odd, i.e. 1 to 5, 1 to 7, ..., so that a neutral middle
 value is available for users who do not have a reputation.
 
-* Herb Bike
+## Herb Bike
 
 Have a bike trailer that is growing and selling herbs. Ideally the trailer
 would be about as big as car since then it could be parked in a car space
 in a city. Thus making good use of city car parking space.
 
-* Chicken aways, an omelette a day.
+## Chicken aways, an omelette a day.
 
 Bike trailer containing chickens which can easily be transported to local
 parks where the chickens may roam freely.
@@ -113,3 +103,35 @@ to a bike trailer.
    wide.
 
 3. Mobile mesh fence for fencing-off chickens when they are released.
+
+## Adtek - LTV > CPI
+
+Aim is to provide an analytics tool that allows marketeers to compare
+Cost per Install (CPI) with the Lifetime Value (LTV) of users. Main focus
+of the campaigns are user acquistion, not user retention.
+
+Context is mobile applications and internet advertising, which is notorious
+for its analytical inaccuracies.
+
+Core features:
+
+1. Collect reporting data from Advertiser Networks (AdNetworks) which includes
+   spends and revenue. Revenue being the money made by showing in-app
+   advertising. Spends being the money spent in placing advertising, both
+   online and in-app (other applications).
+2. Compute the LTV of users based on internal data. LTV is an estimation
+   of what users spend in the application.
+3. Tracking clicks and installs, and associate these with one another.
+
+This was implemented but never saw the light of day. Codebase is mostly
+available on [github](https://github.com/adtekio).
+
+## Package Storage Spiral
+
+## QR Codes for homeless people
+
+## Google Street View Traveller
+
+## Collecting Free CarSharing Minutes
+
+## Cargo Wagons for Trams and Undergrounds
