@@ -135,3 +135,15 @@ available on [github](https://github.com/adtekio).
 ## Collecting Free CarSharing Minutes
 
 ## Cargo Wagons for Trams and Undergrounds
+
+## One Hectare
+
+Take one hectare of land and remove all human influences, i.e. return the
+land back to nature. A border, ideally a glass wall, would be used to
+separate the land from surrounding country.
+
+Intention would be to raise awareness of human population and its affects
+on nature.
+
+One hectare is nice for viewing via google earth and also makes an impact
+on the region.
