@@ -126,15 +126,23 @@ Core features:
 This was implemented but never saw the light of day. Codebase is mostly
 available on [github](https://github.com/adtekio).
 
-## Package Storage Spiral
-
-## QR Codes for homeless people
-
 ## Google Street View Traveller
 
-## Collecting Free CarSharing Minutes
+Travel the world via Google street view.
 
-## Cargo Wagons for Trams and Undergrounds
+More and more photo spheres are being uploaed to google and many of these
+are of beautiful spots around the world.
+
+Not only are they of beautiful spots, they also taken on sunny days, which
+makes them even more tempting to view. What is missing is a traveller
+application that randomly shows these places.
+
+Hence [sun traveller]() was created: travel around the world just viewing
+the sun.
+
+A second idea is to drive the streets of random streets automagically.
+Start somewhere in a city and the application just drives through the
+streets. This became [road traveller]() and is very meditative!
 
 ## One Hectare
 
@@ -147,3 +155,11 @@ on nature.
 
 One hectare is nice for viewing via google earth and also makes an impact
 on the region.
+
+## Collecting Free CarSharing Minutes
+
+## Cargo Wagons for Trams and Undergrounds
+
+## Package Storage Spiral
+
+## QR Codes for homeless people
